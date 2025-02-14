@@ -17,9 +17,9 @@ This Python program implements a CRUD system for hotel reservations using MySQL.
   4.  Run the Program! <br>
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-Sistema_hoteles_rsv.py -> Database population script
-app_crud.py -> CRUD operations for reservations
-database_schema.sql -> SQL script for manual database creation
+Sistema_hoteles_rsv.py -> Database population script <br>
+app_crud.py -> CRUD operations for reservations <br>
+database_schema.sql -> SQL script for manual database creation <br>
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 	
 # What I Learned!
