@@ -15,6 +15,12 @@ This Python program implements a CRUD system for hotel reservations using MySQL.
   2.  Set up the Database: Create the database and tables using the provided SQL script. <br>
   3.  Update Database Credentials: Modify the database connection details in app_crud.py. <br>
   4.  Run the Program! <br>
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Sistema_hoteles_rsv.py -> Database population script
+app_crud.py -> CRUD operations for reservations
+database_schema.sql -> SQL script for manual database creation
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 	
 # What I Learned!
 
